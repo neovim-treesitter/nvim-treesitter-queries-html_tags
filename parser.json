@@ -1,9 +1,8 @@
 {
-  "location": null,
   "url": null,
   "semver": null,
-  "min_version": null,
-  "max_version": null,
+  "parser_version": null,
   "lang": "html_tags",
-  "queries_only": true
+  "queries_only": true,
+  "location": null
 }
