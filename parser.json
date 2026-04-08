@@ -1,7 +1,16 @@
 {
-  "url": null,
-  "semver": null,
-  "lang": "html_tags",
   "queries_only": true,
+  "inject_deps": [
+    "css",
+    "javascript",
+    "json",
+    "regex"
+  ],
+  "host_parser": {
+    "url": "https://github.com/tree-sitter/tree-sitter-html"
+  },
+  "url": null,
+  "lang": "html_tags",
+  "semver": null,
   "parser_version": null
 }
