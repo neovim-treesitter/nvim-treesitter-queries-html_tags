@@ -1,5 +1,4 @@
 {
-  "queries_only": true,
   "inject_deps": [
     "css",
     "javascript",
@@ -7,10 +6,12 @@
     "regex"
   ],
   "host_parser": {
-    "url": "https://github.com/tree-sitter/tree-sitter-html"
+    "url": "https://github.com/tree-sitter/tree-sitter-html",
+    "lang": "html"
   },
   "url": null,
-  "lang": "html_tags",
   "semver": null,
-  "parser_version": null
+  "parser_version": null,
+  "queries_only": true,
+  "lang": "html_tags"
 }
