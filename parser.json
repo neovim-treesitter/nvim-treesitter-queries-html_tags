@@ -1,7 +1,7 @@
 {
-  "queries_only": true,
-  "lang": "html_tags",
   "url": null,
   "semver": null,
+  "lang": "html_tags",
+  "queries_only": true,
   "parser_version": null
 }
